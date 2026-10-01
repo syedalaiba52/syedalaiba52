@@ -1,31 +1,39 @@
-# Hi, I'm Syeda Laiba Shah 👋
+# Hi 👋, I'm Syeda Laiba Shah
 
-Web developer with a strong interest in building meaningful projects, exploring new technologies, and continuously improving my skills.
+### A web developer passionate about building meaningful projects, exploring new technologies, and continuously improving my skills.
 
-## 🚀 What I Do
+---
 
-* Build and explore web development projects
-* Practice new concepts and technologies
-* Learn through hands-on development
-* Continuously improve my skills
+### 🌱 About Me
 
-## 🛠️ Technologies & Tools
+* 💻 I enjoy building and exploring web development projects
+* 📚 I believe in learning through hands-on practice
+* 🚀 Continuously exploring new technologies and development concepts
+* 🛠️ Focused on writing clean, responsive, and user-friendly websites
 
-**Frontend:** HTML5 · CSS3 · JavaScript · React.js · Next.js · TypeScript · Tailwind CSS · Bootstrap
+### 🛠️ Technologies & Tools
 
-**CMS:** WordPress
+**Frontend**
 
-**Tools:** Git · GitHub · npm
+HTML5 · CSS3 · JavaScript · React.js · Next.js · TypeScript · Tailwind CSS · Bootstrap
 
-## 📂 Projects
+**CMS**
 
-I build projects to apply what I learn and gain practical experience through hands-on development.
+WordPress
+
+**Tools**
+
+Git · GitHub · npm
+
+### 📂 Projects
+
+I build projects to practice what I learn and gain practical experience.
 
 Check out my repositories to explore my projects and practice work.
 
-## 📈 Learning Journey
+### 🔗 Connect With Me
 
-I'm continuously learning, experimenting with new technologies, and expanding my development skills.
+[LinkedIn](https://www.linkedin.com/in/syedalaiba52/?isSelfProfile=true) · [Portfolio](https://portfoliodevproject.netlify.app/)
 
 ---
 
