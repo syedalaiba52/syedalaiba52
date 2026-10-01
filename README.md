@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Syeda Laiba Shah 👋
 
-<!--
-**syedalaiba52/syedalaiba52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer with a strong interest in building meaningful projects, exploring new technologies, and continuously improving my skills.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Build and explore web development projects
+* Practice new concepts and technologies
+* Learn through hands-on development
+* Continuously improve my skills
+
+## 🛠️ Technologies & Tools
+
+**Frontend:** HTML5 · CSS3 · JavaScript · React.js · Next.js · TypeScript · Tailwind CSS · Bootstrap
+
+**CMS:** WordPress
+
+**Tools:** Git · GitHub · npm
+
+## 📂 Projects
+
+I build projects to apply what I learn and gain practical experience through hands-on development.
+
+Check out my repositories to explore my projects and practice work.
+
+## 📈 Learning Journey
+
+I'm continuously learning, experimenting with new technologies, and expanding my development skills.
+
+---
+
+⭐ Thanks for visiting my profile!
