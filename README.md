@@ -29,7 +29,7 @@ Check out my repositories to explore my projects and practice work.
 
 ### 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/syedalaiba52/?isSelfProfile=true) · [Portfolio](https://portfoliodevproject.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/syedalaiba52/?isSelfProfile=true) · [Portfolio]([https://portfoliodevproject.netlify.app/](https://frontend-portfolio-web-wave.vercel.app/))
 
 ---
 
